@@ -18,5 +18,5 @@ case $count in
                     echo "bad luck from Italy"
             ;;
             esac
-        ((count++))
+        (( count++ ))
 done
