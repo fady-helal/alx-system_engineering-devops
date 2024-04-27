@@ -4,4 +4,4 @@ eval "$(ssh-agent -s)"
 
 ssh-add ~/.ssh/shcool
 
-ssh ubuntu@54.160.104.133
+ssh ubuntu@100.26.142.205
